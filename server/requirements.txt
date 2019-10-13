@@ -2,7 +2,7 @@ alembic==0.9.5
 better-exceptions==0.1.8
 click==6.7
 elasticsearch==2.1.0
-Flask==0.10.1
+Flask==1.0
 Flask-Migrate==2.1.1
 Flask-Script==2.0.6
 Flask-SQLAlchemy==2.2
